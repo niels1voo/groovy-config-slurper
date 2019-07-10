@@ -22,8 +22,8 @@ repositories {
 
 dependencies {
     //implementation 'org.codehaus.groovy:groovy:2.4.17' // no problem
-    implementation 'org.codehaus.groovy:groovy:2.5.2' // last version without the issue
-    //implementation 'org.codehaus.groovy:groovy:2.5.3' // first version exhibiting the issue
+    //implementation 'org.codehaus.groovy:groovy:2.5.2' // last version without the issue
+    implementation 'org.codehaus.groovy:groovy:2.5.3' // first version exhibiting the issue
 }
 
 // Define the main class for the application
